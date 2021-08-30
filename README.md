@@ -1,1 +1,1 @@
- من فضلك ابعت لي كود تفعيل نيو بوت علشان يبقى vip 
+Please send me the code to make the neoboot plugnin a VIP one
